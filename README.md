@@ -8,7 +8,7 @@ This Shiny app explores the cancer_sample dataset from the datateachr package an
 - Download button for filtered data
 
 ## Web link to Tumor Data Explorer
-[https://gnikas01.shinyapps.io/AppDev/]([url](https://gnikas01.shinyapps.io/AppDev/))
+[https://gnikas01.shinyapps.io/AppDev/](https://gnikas01.shinyapps.io/AppDev/)
 
 ## How to run the app locally
 1. Ensure you have R and RStudio installed on your computer.
