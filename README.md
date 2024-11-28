@@ -1,6 +1,9 @@
 # Tumor Data Explorer
 ### By Greg N - STAT 545B UBC
+## Description and Purpose
 This Shiny app explores the cancer_sample dataset from the datateachr package and allows users to visualize relationships between different variables in the dataset through an interactive scatter plot and provides a downloadable data table. After the latest updates made to the app for STAT545B assignment B4, the app now offers more features and a user friendly experience!
+
+The purpose of the app is to allow users the opportunity to explore different physical characterisitics of malignant and benign tumors. By providing a tool for easy visualiztion, the hope is for users to utilize and build from this knoweldge to assist in future work and research. Ultimately, the goal is to find physical predictors of tumors for fast and efficient cancer diagnosis.
 
 ## UPDATED CURENT FEATURES (for Assignment B4)
 - Scatter Plot Visualization:
