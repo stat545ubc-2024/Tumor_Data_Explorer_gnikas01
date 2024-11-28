@@ -1,22 +1,37 @@
 # Tumor Data Explorer
-This Shiny app explores the cancer_sample dataset from the datateachr package and allows users to visualize relationships between different variables in the dataset through an interactive scatter plot and provides a downloadable data table.
+### By Greg N - STAT 545B UBC
+This Shiny app explores the cancer_sample dataset from the datateachr package and allows users to visualize relationships between different variables in the dataset through an interactive scatter plot and provides a downloadable data table. After the latest updates made to the app for STAT545B assignment B4, the app now offers more features and a user friendly experience!
 
-## Features
+## UPDATED CURENT FEATURES (for Assignment B4)
+- Scatter Plot Visualization:
+      - Interactive scatter plots with customizable x and y variables using the plotly package.
+      - Hover over points to see detailed information, including diagnosis and variable values.
+      - Choose dot colors and adjust point sizes for better visualization.
+- Data Table:
+      - View the filtered dataset in a tabular format.
+      - Sort and search within the table for specific entries.
+- Summary Statistics:
+      - Display summary statistics for the selected variables.
+      - Easily accessible in the “Visualization and Summary” tab.
+- Download Options:
+      - Download the filtered data as a CSV file.
+      - Save the current scatter plot as a PNG image.
+
+## Features from Assignment B3
 - Interactive scatter plot with selectable x and y variables
-      - This feature allows for full customization of the scatter plot allowing the user to explore all different relationships between the variables in cancer_sample
 - Adjustable point size with the option to color points by cancer diagnosis
-      - Allows for the user to adjust the point size making the graph more accesible. Also, be coloring based on diagnosis, it allows the user easy classification of the           data points on the scatter plot.
-- Data table display with the option to filter and sort order
-      - Gives the user the option to easily filter and sort the data based on any variable in the dataset   
+- Data table display with the option to filter and sort order 
 - Download button for filtered data
-      - Easy option to download .csv file of the filtered data for further exploration on the user's local computer.
 
-## Web link to Tumor Data Explorer
+## Web link to the Updated Tumor Data Explorer (Assignment B4)
+[https://gnikas01.shinyapps.io/AppDev/]([https://gnikas01.shinyapps.io/AppDev/](https://gnikas01.shinyapps.io/Tumor-Data-Explorer-Assignment-B4/))
+
+## Web link to Tumor Data Explorer (Old Assignment B3)
 [https://gnikas01.shinyapps.io/AppDev/](https://gnikas01.shinyapps.io/AppDev/)
 
 ## How to run the app locally
 1. Ensure you have R and RStudio installed on your computer.
-2. Install the required packages: shiny, tidyverse, and datateachr.
+2. Install the required packages: shiny, tidyverse, DT, plotly, and datateachr.
 3. Open the app.R file in RStudio.
 4. Click the "Run App" button in RStudio or run `shiny::runApp()` in the console.
 
