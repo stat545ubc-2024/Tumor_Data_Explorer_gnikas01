@@ -1,0 +1,12 @@
+name: Tumor-Data-Explorer-Assignment-B4
+title: Tumor-Data-Explorer-Assignment-B4
+username: gnikas01
+account: gnikas01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13477143
+bundleId: 9433511
+url: https://gnikas01.shinyapps.io/Tumor-Data-Explorer-Assignment-B4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
