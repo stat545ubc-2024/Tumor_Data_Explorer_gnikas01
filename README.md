@@ -27,7 +27,7 @@ The purpose of the app is to allow users the opportunity to explore different ph
 - Download button for filtered data
 
 ## Web link to the Updated Tumor Data Explorer (Assignment B4)
-[https://gnikas01.shinyapps.io/AppDev/]([https://gnikas01.shinyapps.io/AppDev/](https://gnikas01.shinyapps.io/Tumor-Data-Explorer-Assignment-B4/))
+[https://gnikas01.shinyapps.io/Tumor-Data-Explorer-Assignment-B4/]((https://gnikas01.shinyapps.io/Tumor-Data-Explorer-Assignment-B4/))
 
 ## Web link to Tumor Data Explorer (Old Assignment B3)
 [https://gnikas01.shinyapps.io/AppDev/](https://gnikas01.shinyapps.io/AppDev/)
